@@ -1,0 +1,14 @@
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\bin\Debug\net8.0\EditorHtml.exe
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\bin\Debug\net8.0\EditorHtml.deps.json
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\bin\Debug\net8.0\EditorHtml.runtimeconfig.json
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\bin\Debug\net8.0\EditorHtml.dll
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\bin\Debug\net8.0\EditorHtml.pdb
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.dll
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\obj\Debug\net8.0\refint\EditorHtml.dll
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.pdb
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.genruntimeconfig.cache
+C:\Users\ronal\OneDrive\Documentos\Balta.io\EditorHtml\obj\Debug\net8.0\ref\EditorHtml.dll
